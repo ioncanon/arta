@@ -1,0 +1,9 @@
+Building ARTA
+
+See doc/readme-qt.rst for instructions on building ARTA-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ARTA.
+
+See doc/build-*.txt for instructions on building ARTAd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ARTA.
